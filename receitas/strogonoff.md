@@ -1,2 +1,2 @@
 #Strogonoff de Frango
-##Passo a passo]
+##Passo a passo
