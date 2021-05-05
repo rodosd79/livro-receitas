@@ -1,2 +1,2 @@
-#Strogonoff de Frango
-##Passo a passo
+# Strogonoff de Frango
+## Passo a passo
